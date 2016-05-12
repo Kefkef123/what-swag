@@ -1,0 +1,16 @@
+{
+  "name": "what-swag",
+  "version": "1.0.0",
+  "description": "Swagifies your whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin van Hulst",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^0.11.0",
+    "fs": "0.0.2"
+  },
+  "devDependencies": {}
+}
